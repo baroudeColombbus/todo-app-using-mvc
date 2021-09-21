@@ -2,5 +2,5 @@
 
 
 ![alt text](https://github.com/baroudeColombbus/todo-app-using-mvc/blob/main/MVC-Process.svg "model view controller")
-Creédit: Wikipedia, the free encyclopedia
+##### Crédit: Wikipedia, the free encyclopedia
 
